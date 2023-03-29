@@ -1,0 +1,40 @@
+.main__wrap .map__area {
+  width: 100%;
+}
+.main__wrap .map__area iframe {
+  width: 100%;
+  height: 100%;
+}
+.main__wrap .form__area {
+  width: 100%;
+  height: 100%;
+  background-color: #001076;
+}
+.main__wrap .form__area .contact h2 {
+  color: #fff;
+  font-size: 18px;
+  border-bottom: 1px solid;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+.main__wrap .form__area .contact ul {
+  display: flex;
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+.main__wrap .form__area .contact ul li {
+  margin-right: 15px;
+}
+.main__wrap .form__area .contact ul li:last-child {
+  margin-right: 0px;
+}
+.main__wrap .form__area .contact ul li a {
+  color: #fff;
+  font-size: 20px;
+}
+.main__wrap .form__area .contact ul li a:hover {
+  color: #fff;
+}
+
+/*# sourceMappingURL=contact.css.map */
